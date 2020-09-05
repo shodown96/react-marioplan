@@ -1,0 +1,27 @@
+{
+  "name": "marioplan",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^7.19.1",
+    "moment": "^2.27.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-redux-firebase": "^3.7.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.5",
+    "redux-firestore": "^0.13.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "schedule": "^0.4.0"
+  }
+}
